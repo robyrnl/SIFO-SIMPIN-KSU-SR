@@ -5,19 +5,24 @@ Public Class FrmLogin
         MulaiKoneksi()
     End Sub
 
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles BtnLogin.Click
         cmd = New MySqlCommand("SELECT * FROM tb_usr WHERE usrnm = '" & Txt_Usr.Text & "' and pw = '" & TxtPw.Text & "'", conn)
         rd = cmd.ExecuteReader
         rd.Read()
 
         If rd.HasRows Then
-            MsgBox("Login Bergasil", MsgBoxStyle.Information, "Perhatian")
             rd.Close()
+            FrmBeranda.Show()
+            Me.Hide()
         Else
-            MsgBox("Login Gagal", MsgBoxStyle.Critical, "Perhatian")
+            MsgBox("Username Atau Password Tidak Ditemukan", MsgBoxStyle.Exclamation, "Perahatian")
             rd.Close()
         End If
 
 
+    End Sub
+
+    Private Sub BtnKeluar_Click(sender As Object, e As EventArgs) Handles BtnKeluar.Click
+        End
     End Sub
 End Class
