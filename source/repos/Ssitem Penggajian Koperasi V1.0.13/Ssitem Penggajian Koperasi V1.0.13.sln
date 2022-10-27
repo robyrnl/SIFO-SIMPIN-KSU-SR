@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Ssitem Penggajian Koperasi V1.0.13", "Ssitem Penggajian Koperasi V1.0.13\Ssitem Penggajian Koperasi V1.0.13.vdproj", "{204A31DB-DD48-4CF8-99CE-58D143C831CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{204A31DB-DD48-4CF8-99CE-58D143C831CA}.Debug|Default.ActiveCfg = Debug
+		{204A31DB-DD48-4CF8-99CE-58D143C831CA}.Debug|Default.Build.0 = Debug
+		{204A31DB-DD48-4CF8-99CE-58D143C831CA}.Release|Default.ActiveCfg = Release
+		{204A31DB-DD48-4CF8-99CE-58D143C831CA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96480EDC-877D-4611-A39A-29AF12982913}
+	EndGlobalSection
+EndGlobal

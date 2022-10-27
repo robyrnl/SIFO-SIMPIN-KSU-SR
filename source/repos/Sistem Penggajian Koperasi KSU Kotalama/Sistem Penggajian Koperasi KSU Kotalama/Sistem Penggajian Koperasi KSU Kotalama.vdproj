@@ -1,0 +1,2709 @@
+﻿"DeployProject"
+{
+"VSVersion" = "3:800"
+"ProjectType" = "8:{978C614F-708E-4E1A-B201-565925725DBA}"
+"IsWebType" = "8:FALSE"
+"ProjectName" = "8:Sistem Penggajian Koperasi KSU Kotalama"
+"LanguageId" = "3:1033"
+"CodePage" = "3:1252"
+"UILanguageId" = "3:1033"
+"SccProjectName" = "8:"
+"SccLocalPath" = "8:"
+"SccAuxPath" = "8:"
+"SccProvider" = "8:"
+    "Hierarchy"
+    {
+        "Entry"
+        {
+        "MsmKey" = "8:_0385B634D17A441C9310CEFCEEF07CA2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_044C753E8ABB411A93C6308BDC898C45"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_055C05B4328A11073A1214BD2D96CB63"
+        "OwnerKey" = "8:_B4AE07A91FC741D089A22A5B007448CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_180C36AA9579451EA89B23E5AD99FD14"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_21B43C26E7D7414F82B28C285A7AF517"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_21C88694CE3D42A38F5164C41857E1AA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2594E862B6374A0493215A5DD592DC4C"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_289254583941958A6C7068FBACB96508"
+        "OwnerKey" = "8:_A079CD977F15164E4FE35EB20BE96684"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_289254583941958A6C7068FBACB96508"
+        "OwnerKey" = "8:_CBCD9B9F31304FD590ACBBBF28AA8119"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5303AC6D1DEE4E16BD766C625FDC8261"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_55B0F40C1DD54749A38A1A4317DB4A77"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5C3BC83EA5404889B788E63713C5A6B6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_5ECA8D8709D9EB2F6CD0F761F28E8FC5"
+        "OwnerKey" = "8:_A77FF84F0F0C4CBD8C5B5118D1050AC9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6047C03B166548CE89D3300AC5919DCA"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6BF9CC07DEBE4DB7AEDEEBB8A1CCB9EB"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_74E2611C687E4A2385C4313AFEAFA31B"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_7832897BB57146CBBD1D8F6BA68167EF"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8A1276B2C9AE423CB45E210CDEE43B46"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8B97050F6FF342039FB27A8DCEF21797"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8F89D8EA02BD4623B8DF460096EF873E"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_9C098EDA506C41D2A0614CA6A379D5E6"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A079CD977F15164E4FE35EB20BE96684"
+        "OwnerKey" = "8:_AB9149B853144D45261949910CE678B2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A079CD977F15164E4FE35EB20BE96684"
+        "OwnerKey" = "8:_21C88694CE3D42A38F5164C41857E1AA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A77FF84F0F0C4CBD8C5B5118D1050AC9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AB9149B853144D45261949910CE678B2"
+        "OwnerKey" = "8:_D786DA18193C4301A99FE5D62FC95296"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF32D967753C291B2E8C19C72D40F6BA"
+        "OwnerKey" = "8:_8A1276B2C9AE423CB45E210CDEE43B46"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF32D967753C291B2E8C19C72D40F6BA"
+        "OwnerKey" = "8:_CBCD9B9F31304FD590ACBBBF28AA8119"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF32D967753C291B2E8C19C72D40F6BA"
+        "OwnerKey" = "8:_A079CD977F15164E4FE35EB20BE96684"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_AF32D967753C291B2E8C19C72D40F6BA"
+        "OwnerKey" = "8:_D229923EC4DD46DA83F5CFEF140FBD3D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_B4AE07A91FC741D089A22A5B007448CD"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CA7D6820349B4EE4BB4AFE2366594D65"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CBCD9B9F31304FD590ACBBBF28AA8119"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CBDCA9DBE61B431D9F7C58E709CF16F2"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_CD533D68873B44879EF9C312B04CCEF9"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D02E3A3BC0234FE0A027386ACB49C0F7"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D229923EC4DD46DA83F5CFEF140FBD3D"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D651CBFA7CCA4F9C9B4BBB26BAC94398"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D786DA18193C4301A99FE5D62FC95296"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_E7F8708122574DD69764E2844BFF44FC"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_EBD6F4A90D3C403C94B1FAD0CDDFD793"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_F4880E38CB594450878AF7F910F88B69"
+        "OwnerKey" = "8:_UNDEFINED"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_180C36AA9579451EA89B23E5AD99FD14"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_CA7D6820349B4EE4BB4AFE2366594D65"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_21B43C26E7D7414F82B28C285A7AF517"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_7832897BB57146CBBD1D8F6BA68167EF"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_CBCD9B9F31304FD590ACBBBF28AA8119"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_21C88694CE3D42A38F5164C41857E1AA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D786DA18193C4301A99FE5D62FC95296"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_AB9149B853144D45261949910CE678B2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A079CD977F15164E4FE35EB20BE96684"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_A77FF84F0F0C4CBD8C5B5118D1050AC9"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5ECA8D8709D9EB2F6CD0F761F28E8FC5"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_8B97050F6FF342039FB27A8DCEF21797"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_8F89D8EA02BD4623B8DF460096EF873E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D229923EC4DD46DA83F5CFEF140FBD3D"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D02E3A3BC0234FE0A027386ACB49C0F7"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_5303AC6D1DEE4E16BD766C625FDC8261"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_EBD6F4A90D3C403C94B1FAD0CDDFD793"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_55B0F40C1DD54749A38A1A4317DB4A77"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_0385B634D17A441C9310CEFCEEF07CA2"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_9C098EDA506C41D2A0614CA6A379D5E6"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_E7F8708122574DD69764E2844BFF44FC"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_8A1276B2C9AE423CB45E210CDEE43B46"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_AF32D967753C291B2E8C19C72D40F6BA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D651CBFA7CCA4F9C9B4BBB26BAC94398"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F4880E38CB594450878AF7F910F88B69"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_B4AE07A91FC741D089A22A5B007448CD"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_055C05B4328A11073A1214BD2D96CB63"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+    }
+    "Configurations"
+    {
+        "Debug"
+        {
+        "DisplayName" = "8:Debug"
+        "IsDebugOnly" = "11:TRUE"
+        "IsReleaseOnly" = "11:FALSE"
+        "OutputFilename" = "8:Debug\\Sistem Penggajian Koperasi KSU Kotalama.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
+            }
+        }
+        "Release"
+        {
+        "DisplayName" = "8:Release"
+        "IsDebugOnly" = "11:FALSE"
+        "IsReleaseOnly" = "11:TRUE"
+        "OutputFilename" = "8:Release\\Sistem Penggajian Koperasi KSU Kotalama.msi"
+        "PackageFilesAs" = "3:2"
+        "PackageFileSize" = "3:-2147483648"
+        "CabType" = "3:1"
+        "Compression" = "3:2"
+        "SignOutput" = "11:FALSE"
+        "CertificateFile" = "8:"
+        "PrivateKeyFile" = "8:"
+        "TimeStampServer" = "8:"
+        "InstallerBootstrapper" = "3:2"
+            "BootstrapperCfg:{63ACBE69-63AA-4F98-B2B6-99F9E24495F2}"
+            {
+            "Enabled" = "11:TRUE"
+            "PromptEnabled" = "11:TRUE"
+            "PrerequisitesLocation" = "2:1"
+            "Url" = "8:"
+            "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
+            }
+        }
+    }
+    "Deployable"
+    {
+        "CustomAction"
+        {
+        }
+        "DefaultFeature"
+        {
+        "Name" = "8:DefaultFeature"
+        "Title" = "8:"
+        "Description" = "8:"
+        }
+        "ExternalPersistence"
+        {
+            "LaunchCondition"
+            {
+                "{A06ECF26-33A3-4562-8140-9B0E340D4F24}:_CC3E05BDCB1C40599D3C4E6240F132FA"
+                {
+                "Name" = "8:.NET Framework"
+                "Message" = "8:[VSDNETMSG]"
+                "FrameworkVersion" = "8:.NETFramework,Version=v4.5"
+                "AllowLaterVersions" = "11:FALSE"
+                "InstallUrl" = "8:http://go.microsoft.com/fwlink/?LinkId=671728"
+                }
+            }
+        }
+        "File"
+        {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_0385B634D17A441C9310CEFCEEF07CA2"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.CubeDefModel, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_0385B634D17A441C9310CEFCEEF07CA2"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.CubeDefModel.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.CubeDefModel.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_044C753E8ABB411A93C6308BDC898C45"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\laporannya.rpt"
+            "TargetName" = "8:laporannya.rpt"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_055C05B4328A11073A1214BD2D96CB63"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.Prompting, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_055C05B4328A11073A1214BD2D96CB63"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.Prompting.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:CrystalDecisions.ReportAppServer.Prompting.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_21B43C26E7D7414F82B28C285A7AF517"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+                "ScatterAssemblies"
+                {
+                    "_21B43C26E7D7414F82B28C285A7AF517"
+                    {
+                    "Name" = "8:stdole.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\stdole.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_21C88694CE3D42A38F5164C41857E1AA"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+                "ScatterAssemblies"
+                {
+                    "_21C88694CE3D42A38F5164C41857E1AA"
+                    {
+                    "Name" = "8:FlashControlV71.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\FlashControlV71.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_2594E862B6374A0493215A5DD592DC4C"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\setup.exe"
+            "TargetName" = "8:setup.exe"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_289254583941958A6C7068FBACB96508"
+            {
+            "SourcePath" = "8:Flash.ocx"
+            "TargetName" = "8:Flash.ocx"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5303AC6D1DEE4E16BD766C625FDC8261"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.ObjectFactory, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_5303AC6D1DEE4E16BD766C625FDC8261"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.ObjectFactory.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.ObjectFactory.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_55B0F40C1DD54749A38A1A4317DB4A77"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.DataDefModel, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_55B0F40C1DD54749A38A1A4317DB4A77"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.DataDefModel.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.DataDefModel.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_5C3BC83EA5404889B788E63713C5A6B6"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\Untitled-1.ico.deploy"
+            "TargetName" = "8:Untitled-1.ico.deploy"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_5ECA8D8709D9EB2F6CD0F761F28E8FC5"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=x86"
+                "ScatterAssemblies"
+                {
+                    "_5ECA8D8709D9EB2F6CD0F761F28E8FC5"
+                    {
+                    "Name" = "8:log4net.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:log4net.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6047C03B166548CE89D3300AC5919DCA"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\logoSistem.ico.deploy"
+            "TargetName" = "8:logoSistem.ico.deploy"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_6BF9CC07DEBE4DB7AEDEEBB8A1CCB9EB"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\Sistem_Penggajian_Koperasi.exe.manifest"
+            "TargetName" = "8:Sistem_Penggajian_Koperasi.exe.manifest"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_74E2611C687E4A2385C4313AFEAFA31B"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\Sistem_Penggajian_Koperasi.exe.config.deploy"
+            "TargetName" = "8:Sistem_Penggajian_Koperasi.exe.config.deploy"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_7832897BB57146CBBD1D8F6BA68167EF"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Sistem_Penggajian_Koperasi, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_7832897BB57146CBBD1D8F6BA68167EF"
+                    {
+                    "Name" = "8:Sistem_Penggajian_Koperasi.exe.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\Sistem_Penggajian_Koperasi.exe.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8A1276B2C9AE423CB45E210CDEE43B46"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.CommonControls, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8A1276B2C9AE423CB45E210CDEE43B46"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.CommonControls.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.CommonControls.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8B97050F6FF342039FB27A8DCEF21797"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportSource, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8B97050F6FF342039FB27A8DCEF21797"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportSource.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportSource.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8F89D8EA02BD4623B8DF460096EF873E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.XmlSerialize, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8F89D8EA02BD4623B8DF460096EF873E"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.XmlSerialize.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.XmlSerialize.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9C098EDA506C41D2A0614CA6A379D5E6"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.Controllers, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_9C098EDA506C41D2A0614CA6A379D5E6"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.Controllers.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.Controllers.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A079CD977F15164E4FE35EB20BE96684"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+                "ScatterAssemblies"
+                {
+                    "_A079CD977F15164E4FE35EB20BE96684"
+                    {
+                    "Name" = "8:ShockwaveFlashObjects.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:ShockwaveFlashObjects.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_A77FF84F0F0C4CBD8C5B5118D1050AC9"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.Shared, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_A77FF84F0F0C4CBD8C5B5118D1050AC9"
+                    {
+                    "Name" = "8:CrystalDecisions.Shared.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.Shared.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AB9149B853144D45261949910CE678B2"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+                "ScatterAssemblies"
+                {
+                    "_AB9149B853144D45261949910CE678B2"
+                    {
+                    "Name" = "8:FlashControlV71.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:FlashControlV71.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AF32D967753C291B2E8C19C72D40F6BA"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:TRUE"
+            "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+                "ScatterAssemblies"
+                {
+                    "_AF32D967753C291B2E8C19C72D40F6BA"
+                    {
+                    "Name" = "8:stdole.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:stdole.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_B4AE07A91FC741D089A22A5B007448CD"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.CrystalReports.Engine, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_B4AE07A91FC741D089A22A5B007448CD"
+                    {
+                    "Name" = "8:CrystalDecisions.CrystalReports.Engine.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.CrystalReports.Engine.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CA7D6820349B4EE4BB4AFE2366594D65"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Sistem_Penggajian_Koperasi, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_CA7D6820349B4EE4BB4AFE2366594D65"
+                    {
+                    "Name" = "8:Sistem_Penggajian_Koperasi.exe"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Sistem_Penggajian_Koperasi.exe"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_CBCD9B9F31304FD590ACBBBF28AA8119"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:ShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304"
+                "ScatterAssemblies"
+                {
+                    "_CBCD9B9F31304FD590ACBBBF28AA8119"
+                    {
+                    "Name" = "8:ShockwaveFlashObjects.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\ShockwaveFlashObjects.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CBDCA9DBE61B431D9F7C58E709CF16F2"
+            {
+            "SourcePath" = "8:..\\..\\..\\..\\Pictures\\Untitled-1.ico"
+            "TargetName" = "8:Untitled-1.ico"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_CD533D68873B44879EF9C312B04CCEF9"
+            {
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Sistem_Penggajian_Koperasi.application"
+            "TargetName" = "8:Sistem_Penggajian_Koperasi.application"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D02E3A3BC0234FE0A027386ACB49C0F7"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.Prompting, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D02E3A3BC0234FE0A027386ACB49C0F7"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.Prompting.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.Prompting.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D229923EC4DD46DA83F5CFEF140FBD3D"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.ReportDefModel, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D229923EC4DD46DA83F5CFEF140FBD3D"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.ReportDefModel.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.ReportDefModel.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D651CBFA7CCA4F9C9B4BBB26BAC94398"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.CommLayer, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D651CBFA7CCA4F9C9B4BBB26BAC94398"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.CommLayer.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.CommLayer.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D786DA18193C4301A99FE5D62FC95296"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.Windows.Forms, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D786DA18193C4301A99FE5D62FC95296"
+                    {
+                    "Name" = "8:CrystalDecisions.Windows.Forms.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.Windows.Forms.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_E7F8708122574DD69764E2844BFF44FC"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.CommonObjectModel, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_E7F8708122574DD69764E2844BFF44FC"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.CommonObjectModel.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.CommonObjectModel.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_EBD6F4A90D3C403C94B1FAD0CDDFD793"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.DataSetConversion, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_EBD6F4A90D3C403C94B1FAD0CDDFD793"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.DataSetConversion.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.DataSetConversion.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F4880E38CB594450878AF7F910F88B69"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:CrystalDecisions.ReportAppServer.ClientDoc, Version=13.0.3500.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F4880E38CB594450878AF7F910F88B69"
+                    {
+                    "Name" = "8:CrystalDecisions.ReportAppServer.ClientDoc.dll.deploy"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:..\\..\\Sistem_Penggajian_Koperasi - Copy\\Sistem_Penggajian_Koperasi\\bin\\Debug\\app.publish\\Application Files\\Sistem_Penggajian_Koperasi_1_0_0_15\\CrystalDecisions.ReportAppServer.ClientDoc.dll.deploy"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "IsolateTo" = "8:"
+            }
+        }
+        "FileType"
+        {
+        }
+        "Folder"
+        {
+            "{1525181F-901A-416C-8A58-119130FE478E}:_5E345FC5E5DB410A8CA21CCA1A3F6AFF"
+            {
+            "Name" = "8:#1916"
+            "AlwaysCreate" = "11:TRUE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:DesktopFolder"
+                "Folders"
+                {
+                }
+            }
+            "{1525181F-901A-416C-8A58-119130FE478E}:_A356632BF8A24151BB5FB564FF2E28C7"
+            {
+            "Name" = "8:#1919"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:ProgramMenuFolder"
+                "Folders"
+                {
+                }
+            }
+            "{3C67513D-01DD-4637-8A68-80971EB9504F}:_AA8006282CBB488FB1008AE5C014BD3D"
+            {
+            "DefaultLocation" = "8:[ProgramFilesFolder][Manufacturer]\\[ProductName]"
+            "Name" = "8:#1925"
+            "AlwaysCreate" = "11:FALSE"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Property" = "8:TARGETDIR"
+                "Folders"
+                {
+                }
+            }
+        }
+        "LaunchCondition"
+        {
+        }
+        "Locator"
+        {
+        }
+        "MsiBootstrapper"
+        {
+        "LangId" = "3:1033"
+        "RequiresElevation" = "11:FALSE"
+        }
+        "Product"
+        {
+        "Name" = "8:Microsoft Visual Studio"
+        "ProductName" = "8:Sistem Penggajian Koperasi KSU Kotalama"
+        "ProductCode" = "8:{F28902A4-2699-441F-A40E-BE8CB603AD90}"
+        "PackageCode" = "8:{D38A9F28-53E5-4CF4-B9A4-2A80F434EC79}"
+        "UpgradeCode" = "8:{FF1794AD-9DE0-4700-B77A-7FAAF85B9123}"
+        "AspNetVersion" = "8:2.0.50727.0"
+        "RestartWWWService" = "11:FALSE"
+        "RemovePreviousVersions" = "11:TRUE"
+        "DetectNewerInstalledVersion" = "11:TRUE"
+        "InstallAllUsers" = "11:TRUE"
+        "ProductVersion" = "8:1.0.1"
+        "Manufacturer" = "8:TIUR"
+        "ARPHELPTELEPHONE" = "8:"
+        "ARPHELPLINK" = "8:"
+        "Title" = "8:Sistem Penggajian Koperasi KSU Kotalama"
+        "Subject" = "8:"
+        "ARPCONTACT" = "8:RobyRNL"
+        "Keywords" = "8:"
+        "ARPCOMMENTS" = "8:"
+        "ARPURLINFOABOUT" = "8:"
+        "ARPPRODUCTICON" = "8:"
+        "ARPIconIndex" = "3:0"
+        "SearchPath" = "8:"
+        "UseSystemSearchPath" = "11:TRUE"
+        "TargetPlatform" = "3:0"
+        "PreBuildEvent" = "8:"
+        "PostBuildEvent" = "8:"
+        "RunPostBuildEvent" = "3:0"
+        }
+        "Registry"
+        {
+            "HKLM"
+            {
+                "Keys"
+                {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_DA4568E74CB24743BF0775B9BAD71C25"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_FF72CFE17FD54816B5F42A10B6C862A3"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCU"
+            {
+                "Keys"
+                {
+                    "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_572CBC6C35CF4C5DB526E1855560151E"
+                    {
+                    "Name" = "8:Software"
+                    "Condition" = "8:"
+                    "AlwaysCreate" = "11:FALSE"
+                    "DeleteAtUninstall" = "11:FALSE"
+                    "Transitive" = "11:FALSE"
+                        "Keys"
+                        {
+                            "{60EA8692-D2D5-43EB-80DC-7906BF13D6EF}:_9C3C45AADBDC450E85F2A98E9F2F62C8"
+                            {
+                            "Name" = "8:[Manufacturer]"
+                            "Condition" = "8:"
+                            "AlwaysCreate" = "11:FALSE"
+                            "DeleteAtUninstall" = "11:FALSE"
+                            "Transitive" = "11:FALSE"
+                                "Keys"
+                                {
+                                }
+                                "Values"
+                                {
+                                }
+                            }
+                        }
+                        "Values"
+                        {
+                        }
+                    }
+                }
+            }
+            "HKCR"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKU"
+            {
+                "Keys"
+                {
+                }
+            }
+            "HKPU"
+            {
+                "Keys"
+                {
+                }
+            }
+        }
+        "Sequences"
+        {
+        }
+        "Shortcut"
+        {
+            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_F1C52C79E4194C54BB73E743630EF5FC"
+            {
+            "Name" = "8:Shortcut to Sistem_Penggajian_Koperasi.exe"
+            "Arguments" = "8:"
+            "Description" = "8:"
+            "ShowCmd" = "3:1"
+            "IconIndex" = "3:0"
+            "Transitive" = "11:FALSE"
+            "Target" = "8:_CA7D6820349B4EE4BB4AFE2366594D65"
+            "Folder" = "8:_5E345FC5E5DB410A8CA21CCA1A3F6AFF"
+            "WorkingFolder" = "8:_AA8006282CBB488FB1008AE5C014BD3D"
+            "Icon" = "8:_CBDCA9DBE61B431D9F7C58E709CF16F2"
+            "Feature" = "8:"
+            }
+        }
+        "UserInterface"
+        {
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_1BE6945CB2134C71AA763B448FD3507A"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:2"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_014D8204F3094EC2AB633BC7868A233B"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_2BE93BFC919F4B19940F954822C6116F"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdUserInterface.wim"
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_4081A478E3DF4BE19C9E8193E119DD14"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:2"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_15A1AE10A4FB48D2BE86E4242A048E54"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminWelcomeDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_4370A132BF2342669F4501276889C47E"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminConfirmDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_A4A91641124E46EBB8EDFB0D02EF7EC8"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFolderDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_59C1F78314B3498C8E3521FACE7D1AB3"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:2"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_D286B94F191845B4AACDAFCF6D94005A"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdAdminFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{2479F3F5-0309-486D-8047-8187E2CE5BA0}:_6072DEEFED25476884A4196D982B1F9E"
+            {
+            "UseDynamicProperties" = "11:FALSE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:<VsdDialogDir>\\VsdBasicDialogs.wim"
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_733CC029A94A4A46B5CCB37A627534D2"
+            {
+            "Name" = "8:#1901"
+            "Sequence" = "3:1"
+            "Attributes" = "3:2"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_5277DF4D46CF4F7281B8D4FDC27605B6"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Progress"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdProgressDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "ShowProgress"
+                            {
+                            "Name" = "8:ShowProgress"
+                            "DisplayName" = "8:#1009"
+                            "Description" = "8:#1109"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_8AD3F5316DA440AC9F7198FFF29743BF"
+            {
+            "Name" = "8:#1900"
+            "Sequence" = "3:1"
+            "Attributes" = "3:1"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_07551243F1604A078C739384D1A32B11"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Welcome"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdWelcomeDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "CopyrightWarning"
+                            {
+                            "Name" = "8:CopyrightWarning"
+                            "DisplayName" = "8:#1002"
+                            "Description" = "8:#1102"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1202"
+                            "DefaultValue" = "8:#1202"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "Welcome"
+                            {
+                            "Name" = "8:Welcome"
+                            "DisplayName" = "8:#1003"
+                            "Description" = "8:#1103"
+                            "Type" = "3:3"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1203"
+                            "DefaultValue" = "8:#1203"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_7991C3FCAB044B47A7170230FABE72BF"
+                    {
+                    "Sequence" = "3:300"
+                    "DisplayName" = "8:Confirm Installation"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdConfirmDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_E461FBC526EA4DD3B172DD04333BCD84"
+                    {
+                    "Sequence" = "3:200"
+                    "DisplayName" = "8:Installation Folder"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFolderDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "InstallAllUsersVisible"
+                            {
+                            "Name" = "8:InstallAllUsersVisible"
+                            "DisplayName" = "8:#1059"
+                            "Description" = "8:#1159"
+                            "Type" = "3:5"
+                            "ContextData" = "8:1;True=1;False=0"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:0"
+                            "Value" = "3:1"
+                            "DefaultValue" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+            "{DF760B10-853B-4699-99F2-AFF7185B4A62}:_F77489E2EB2A42E083FE959763E801D3"
+            {
+            "Name" = "8:#1902"
+            "Sequence" = "3:1"
+            "Attributes" = "3:3"
+                "Dialogs"
+                {
+                    "{688940B3-5CA9-4162-8DEE-2993FA9D8CBC}:_9F11E4DA11A4443F8768219702941355"
+                    {
+                    "Sequence" = "3:100"
+                    "DisplayName" = "8:Finished"
+                    "UseDynamicProperties" = "11:TRUE"
+                    "IsDependency" = "11:FALSE"
+                    "SourcePath" = "8:<VsdDialogDir>\\VsdFinishedDlg.wid"
+                        "Properties"
+                        {
+                            "BannerBitmap"
+                            {
+                            "Name" = "8:BannerBitmap"
+                            "DisplayName" = "8:#1001"
+                            "Description" = "8:#1101"
+                            "Type" = "3:8"
+                            "ContextData" = "8:Bitmap"
+                            "Attributes" = "3:4"
+                            "Setting" = "3:1"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                            "UpdateText"
+                            {
+                            "Name" = "8:UpdateText"
+                            "DisplayName" = "8:#1058"
+                            "Description" = "8:#1158"
+                            "Type" = "3:15"
+                            "ContextData" = "8:"
+                            "Attributes" = "3:0"
+                            "Setting" = "3:1"
+                            "Value" = "8:#1258"
+                            "DefaultValue" = "8:#1258"
+                            "UsePlugInResources" = "11:TRUE"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        "MergeModule"
+        {
+            "{CEE29DC0-9FBA-4B99-8D47-5BC643D9B626}:_180C36AA9579451EA89B23E5AD99FD14"
+            {
+            "UseDynamicProperties" = "11:TRUE"
+            "IsDependency" = "11:FALSE"
+            "SourcePath" = "8:D:\\New folder\\CRforVS_mergemodules_13_0_22\\CRRuntime_13_0_22.msm"
+                "Properties"
+                {
+                    "ForceLargerFonts"
+                    {
+                    "Name" = "8:ForceLargerFonts"
+                    "DisplayName" = "8:ForceLargerFonts"
+                    "Description" = "8:Property to determine whether to use a larger font for PDF export. A value of 1 will force it, and a value of 0 (default) will default font."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:0"
+                    "DefaultValue" = "8:0"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallACT"
+                    {
+                    "Name" = "8:InstallACT"
+                    "DisplayName" = "8:InstallACT"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for PC databases. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallBTRIEVE"
+                    {
+                    "Name" = "8:InstallBTRIEVE"
+                    "DisplayName" = "8:InstallBTRIEVE"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Pervasive databases. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCDO32"
+                    {
+                    "Name" = "8:InstallCDO32"
+                    "DisplayName" = "8:InstallCDO32"
+                    "Description" = "8:Property to determine whether to install the Crystal Data Object database driver. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_ADO"
+                    {
+                    "Name" = "8:InstallCRDB_ADO"
+                    "DisplayName" = "8:InstallCRDB_ADO"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Microsoft ActiveX Data Objects. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_ADOPLUS"
+                    {
+                    "Name" = "8:InstallCRDB_ADOPLUS"
+                    "DisplayName" = "8:InstallCRDB_ADOPLUS"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Microsoft ADO.NET. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_CDO"
+                    {
+                    "Name" = "8:InstallCRDB_CDO"
+                    "DisplayName" = "8:InstallCRDB_CDO"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Crystal Data Object. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_COM"
+                    {
+                    "Name" = "8:InstallCRDB_COM"
+                    "DisplayName" = "8:InstallCRDB_COM"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for COM data provider. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_DATASET"
+                    {
+                    "Name" = "8:InstallCRDB_DATASET"
+                    "DisplayName" = "8:InstallCRDB_DATASET"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for DataSet provider. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_ODBC"
+                    {
+                    "Name" = "8:InstallCRDB_ODBC"
+                    "DisplayName" = "8:InstallCRDB_ODBC"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for ODBC. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_ORACLE"
+                    {
+                    "Name" = "8:InstallCRDB_ORACLE"
+                    "DisplayName" = "8:InstallCRDB_ORACLE"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Oracle. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallCRDB_QUERY"
+                    {
+                    "Name" = "8:InstallCRDB_QUERY"
+                    "DisplayName" = "8:InstallCRDB_QUERY"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Query Data. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallDAO"
+                    {
+                    "Name" = "8:InstallDAO"
+                    "DisplayName" = "8:InstallDAO"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Microsoft Data Access Objects. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallFIELDDEF"
+                    {
+                    "Name" = "8:InstallFIELDDEF"
+                    "DisplayName" = "8:InstallFIELDDEF"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Field Definitions. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallFILESYSTEM"
+                    {
+                    "Name" = "8:InstallFILESYSTEM"
+                    "DisplayName" = "8:InstallFILESYSTEM"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for File System data. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallIBM_DB2"
+                    {
+                    "Name" = "8:InstallIBM_DB2"
+                    "DisplayName" = "8:InstallIBM_DB2"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for DB2 Server. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallINFORMIX"
+                    {
+                    "Name" = "8:InstallINFORMIX"
+                    "DisplayName" = "8:InstallINFORMIX"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Informix Online Server. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2BBDE"
+                    {
+                    "Name" = "8:InstallP2BBDE"
+                    "DisplayName" = "8:InstallP2BBDE"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for IDAPI. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2BXBSE"
+                    {
+                    "Name" = "8:InstallP2BXBSE"
+                    "DisplayName" = "8:InstallP2BXBSE"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for xBase. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2IXBSE_DLL"
+                    {
+                    "Name" = "8:InstallP2IXBSE_DLL"
+                    "DisplayName" = "8:InstallP2IXBSE_DLL"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports physical database DLL for xBase. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SACL"
+                    {
+                    "Name" = "8:InstallP2SACL"
+                    "DisplayName" = "8:InstallP2SACL"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Public Folder ACL. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SEVT"
+                    {
+                    "Name" = "8:InstallP2SEVT"
+                    "DisplayName" = "8:InstallP2SEVT"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for NT Event Log. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SEXSR"
+                    {
+                    "Name" = "8:InstallP2SEXSR"
+                    "DisplayName" = "8:InstallP2SEXSR"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Exchange Server Admin. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SMAPI"
+                    {
+                    "Name" = "8:InstallP2SMAPI"
+                    "DisplayName" = "8:InstallP2SMAPI"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Exchange Folders and Address Book. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SMSIIS"
+                    {
+                    "Name" = "8:InstallP2SMSIIS"
+                    "DisplayName" = "8:InstallP2SMSIIS"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for IIS Log Files. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SOUTLK"
+                    {
+                    "Name" = "8:InstallP2SOUTLK"
+                    "DisplayName" = "8:InstallP2SOUTLK"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Outlook Data. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SREPL"
+                    {
+                    "Name" = "8:InstallP2SREPL"
+                    "DisplayName" = "8:InstallP2SREPL"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Exchange Public Folder Replica. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2STRACK"
+                    {
+                    "Name" = "8:InstallP2STRACK"
+                    "DisplayName" = "8:InstallP2STRACK"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Exchange Server Message Tracking Logs. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallP2SWBLG"
+                    {
+                    "Name" = "8:InstallP2SWBLG"
+                    "DisplayName" = "8:InstallP2SWBLG"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Web Log Files. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallSYBASE"
+                    {
+                    "Name" = "8:InstallSYBASE"
+                    "DisplayName" = "8:InstallSYBASE"
+                    "Description" = "8:Property to determine whether to install the Crystal Reports database driver for Sybase. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2DMAPI"
+                    {
+                    "Name" = "8:InstallU2DMAPI"
+                    "DisplayName" = "8:InstallU2DMAPI"
+                    "Description" = "8:Property to determine whether to install the export driver for MAPI Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2DNOTES"
+                    {
+                    "Name" = "8:InstallU2DNOTES"
+                    "DisplayName" = "8:InstallU2DNOTES"
+                    "Description" = "8:Property to determine whether to install the export driver for Lotus Notes Database Destination Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2DVIM"
+                    {
+                    "Name" = "8:InstallU2DVIM"
+                    "DisplayName" = "8:InstallU2DVIM"
+                    "Description" = "8:Property to determine whether to install the export driver for Export to Lotus Notes Mail Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FCR"
+                    {
+                    "Name" = "8:InstallU2FCR"
+                    "DisplayName" = "8:InstallU2FCR"
+                    "Description" = "8:Property to determine whether to install the export driver for Report Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FHTML"
+                    {
+                    "Name" = "8:InstallU2FHTML"
+                    "DisplayName" = "8:InstallU2FHTML"
+                    "Description" = "8:Property to determine whether to install the export driver for HTML 4.0 Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FODBC"
+                    {
+                    "Name" = "8:InstallU2FODBC"
+                    "DisplayName" = "8:InstallU2FODBC"
+                    "Description" = "8:Property to determine whether to install the export driver for ODBC Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FPDF"
+                    {
+                    "Name" = "8:InstallU2FPDF"
+                    "DisplayName" = "8:InstallU2FPDF"
+                    "Description" = "8:Property to determine whether to install the export driver for PDF Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FREC"
+                    {
+                    "Name" = "8:InstallU2FREC"
+                    "DisplayName" = "8:InstallU2FREC"
+                    "Description" = "8:Property to determine whether to install the export driver for Records Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FRTF"
+                    {
+                    "Name" = "8:InstallU2FRTF"
+                    "DisplayName" = "8:InstallU2FRTF"
+                    "Description" = "8:Property to determine whether to install the export driver for RTF Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FSEPV"
+                    {
+                    "Name" = "8:InstallU2FSEPV"
+                    "DisplayName" = "8:InstallU2FSEPV"
+                    "Description" = "8:Property to determine whether to install the export driver for Separated Export Values Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FTEXT"
+                    {
+                    "Name" = "8:InstallU2FTEXT"
+                    "DisplayName" = "8:InstallU2FTEXT"
+                    "Description" = "8:Property to determine whether to install the export driver for Text Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FWORDW"
+                    {
+                    "Name" = "8:InstallU2FWORDW"
+                    "DisplayName" = "8:InstallU2FWORDW"
+                    "Description" = "8:Property to determine whether to install the export driver for Word Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FXLS"
+                    {
+                    "Name" = "8:InstallU2FXLS"
+                    "DisplayName" = "8:InstallU2FXLS"
+                    "Description" = "8:Property to determine whether to install the export driver for Excel Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallU2FXML"
+                    {
+                    "Name" = "8:InstallU2FXML"
+                    "DisplayName" = "8:InstallU2FXML"
+                    "Description" = "8:Property to determine whether to install the export driver for XML Export Format. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "InstallWebViewer"
+                    {
+                    "Name" = "8:InstallWebViewer"
+                    "DisplayName" = "8:InstallWebViewer"
+                    "Description" = "8:Property to control if the Crystal Reports Viewer files is installed or not. A value of 1 (default) will install it, and a value of 0 will disable its installation."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:2"
+                    "Setting" = "3:1"
+                    "Value" = "8:1"
+                    "DefaultValue" = "8:1"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                    "PIDKEY"
+                    {
+                    "Name" = "8:PIDKEY"
+                    "DisplayName" = "8:Keycode"
+                    "Description" = "8:Value of a valid keycode to be used with the deployed runtime components."
+                    "Type" = "3:3"
+                    "ContextData" = "8:"
+                    "Attributes" = "3:0"
+                    "Setting" = "3:1"
+                    "Value" = "8:none"
+                    "DefaultValue" = "8:none"
+                    "UsePlugInResources" = "11:FALSE"
+                    }
+                }
+            "LanguageId" = "3:0"
+            "Exclude" = "11:FALSE"
+            "Folder" = "8:"
+            "Feature" = "8:"
+            "IsolateTo" = "8:"
+            }
+        }
+        "ProjectOutput"
+        {
+        }
+    }
+}

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\bin\Debug\quick_count_pilkada2020.exe.config
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\bin\Debug\quick_count_pilkada2020.exe
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\bin\Debug\quick_count_pilkada2020.pdb
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\bin\Debug\quick_count_pilkada2020.xml
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.vbprojAssemblyReference.cache
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.ShowPersentase.resources
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.home.resources
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.InputSuara.resources
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.Resources.resources
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.vbproj.GenerateResource.cache
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.exe
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.xml
+C:\Users\User\source\repos\quick_count_pilkada2020\quick_count_pilkada2020\obj\Debug\quick_count_pilkada2020.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SistemPenggajianKoperasi", "SistemPenggajianKoperasi\SistemPenggajianKoperasi.vdproj", "{F0430089-52B3-4E6F-9034-708F7B3C5A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Debug|Any CPU.ActiveCfg = Debug
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Debug|Any CPU.Build.0 = Debug
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Debug|Default.ActiveCfg = Debug
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Debug|Default.Build.0 = Debug
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Release|Any CPU.ActiveCfg = Release
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Release|Any CPU.Build.0 = Release
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Release|Default.ActiveCfg = Release
+		{F0430089-52B3-4E6F-9034-708F7B3C5A85}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6EF4FF7-BD87-4B20-9703-625E653A4A15}
+	EndGlobalSection
+EndGlobal

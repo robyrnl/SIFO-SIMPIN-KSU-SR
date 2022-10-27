@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sistem Prnggajian Koperasi V.1.0.7", "Sistem Prnggajian Koperasi V.1.0.7\Sistem Prnggajian Koperasi V.1.0.7.vdproj", "{5E520F5D-BF66-4064-A6E1-AE446D492885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Default = Debug|Default
+		Release|Any CPU = Release|Any CPU
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Debug|Any CPU.ActiveCfg = Debug
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Debug|Any CPU.Build.0 = Debug
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Debug|Default.ActiveCfg = Debug
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Debug|Default.Build.0 = Debug
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Release|Any CPU.ActiveCfg = Release
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Release|Any CPU.Build.0 = Release
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Release|Default.ActiveCfg = Release
+		{5E520F5D-BF66-4064-A6E1-AE446D492885}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01597716-831D-4836-BE70-4F3368F29E69}
+	EndGlobalSection
+EndGlobal

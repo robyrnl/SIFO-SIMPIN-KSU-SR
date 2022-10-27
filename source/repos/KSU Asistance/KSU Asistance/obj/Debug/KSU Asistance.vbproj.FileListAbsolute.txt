@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\KSU Asistance.exe.config
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\KSU Asistance.exe
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\KSU Asistance.pdb
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\KSU Asistance.xml
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\bin\Debug\MySql.Data.xml
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.vbprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU_Asistance.Form1.resources
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU_Asistance.Resources.resources
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.vbproj.GenerateResource.Cache
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.vbproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.exe
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.xml
+C:\Users\User\source\repos\KSU Asistance\KSU Asistance\obj\Debug\KSU Asistance.pdb

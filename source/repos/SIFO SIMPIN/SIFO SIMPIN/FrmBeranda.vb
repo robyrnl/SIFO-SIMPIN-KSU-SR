@@ -59,6 +59,10 @@
         Label8.Visible = False
         Label9.Visible = False
         Label10.Visible = False
+
+        PnlTmbhPmnjm.Visible = False
+        PnlDash.Visible = False
+        PnlTmbhSmpn.Visible = True
     End Sub
 
     Private Sub BtnCkSmpn_Click(sender As Object, e As EventArgs) Handles BtnCkSmpn.Click

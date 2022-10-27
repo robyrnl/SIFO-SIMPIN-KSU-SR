@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sistem Penggajian Koperasi KSU Kotalama", "Sistem Penggajian Koperasi KSU Kotalama\Sistem Penggajian Koperasi KSU Kotalama.vdproj", "{38F33E90-530B-4F7C-BC9A-A550265E04B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38F33E90-530B-4F7C-BC9A-A550265E04B8}.Debug|Default.ActiveCfg = Debug
+		{38F33E90-530B-4F7C-BC9A-A550265E04B8}.Debug|Default.Build.0 = Debug
+		{38F33E90-530B-4F7C-BC9A-A550265E04B8}.Release|Default.ActiveCfg = Release
+		{38F33E90-530B-4F7C-BC9A-A550265E04B8}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1CD6EB-8AA8-42D0-A496-C68020B0AEE5}
+	EndGlobalSection
+EndGlobal
